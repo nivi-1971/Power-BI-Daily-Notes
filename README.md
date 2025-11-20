@@ -4,7 +4,7 @@ This repository contains a structured collection of Power BI notes, daily practi
 Contents
 
 1. Notes
-Power Query (Data Transformation)
+Power Query (Data Transformation) 
 Data Modeling
 DAX Functions
 Visualization Standards
